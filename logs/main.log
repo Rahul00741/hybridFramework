@@ -1,0 +1,5 @@
+2020-02-17 23:55:57,203 +0530 [main] INFO  (TC_loginTest_001.java:18) - url is entered
+2020-02-17 23:55:57,357 +0530 [main] INFO  (TC_loginTest_001.java:23) - username is entered
+2020-02-17 23:55:57,435 +0530 [main] INFO  (TC_loginTest_001.java:26) - password is entered
+2020-02-17 23:55:57,572 +0530 [main] INFO  (TC_loginTest_001.java:29) - click on login Button
+2020-02-17 23:55:57,588 +0530 [main] INFO  (TC_loginTest_001.java:38) - title verified
